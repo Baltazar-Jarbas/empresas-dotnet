@@ -1,0 +1,8 @@
+C:\dev\empresas-dotnet\src\AppEmpresas.Core\bin\Debug\netcoreapp3.1\AppEmpresas.Core.deps.json
+C:\dev\empresas-dotnet\src\AppEmpresas.Core\bin\Debug\netcoreapp3.1\AppEmpresas.Core.dll
+C:\dev\empresas-dotnet\src\AppEmpresas.Core\bin\Debug\netcoreapp3.1\AppEmpresas.Core.pdb
+C:\dev\empresas-dotnet\src\AppEmpresas.Core\obj\Debug\netcoreapp3.1\AppEmpresas.Core.AssemblyInfoInputs.cache
+C:\dev\empresas-dotnet\src\AppEmpresas.Core\obj\Debug\netcoreapp3.1\AppEmpresas.Core.AssemblyInfo.cs
+C:\dev\empresas-dotnet\src\AppEmpresas.Core\obj\Debug\netcoreapp3.1\AppEmpresas.Core.dll
+C:\dev\empresas-dotnet\src\AppEmpresas.Core\obj\Debug\netcoreapp3.1\AppEmpresas.Core.pdb
+C:\dev\empresas-dotnet\src\AppEmpresas.Core\obj\Debug\netcoreapp3.1\AppEmpresas.Core.csprojAssemblyReference.cache

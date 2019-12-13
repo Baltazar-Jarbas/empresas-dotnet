@@ -1,0 +1,15 @@
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\bin\Debug\netcoreapp3.1\AppEmpresas.Core.dll
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\bin\Debug\netcoreapp3.1\AppEmpresas.Domain.dll
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\obj\Debug\netcoreapp3.1\AppEmpresas.Data.csprojAssemblyReference.cache
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\obj\Debug\netcoreapp3.1\AppEmpresas.Data.AssemblyInfoInputs.cache
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\obj\Debug\netcoreapp3.1\AppEmpresas.Data.AssemblyInfo.cs
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\bin\Debug\netcoreapp3.1\AppEmpresas.Data.deps.json
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\bin\Debug\netcoreapp3.1\AppEmpresas.Data.runtimeconfig.json
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\bin\Debug\netcoreapp3.1\AppEmpresas.Data.runtimeconfig.dev.json
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\bin\Debug\netcoreapp3.1\AppEmpresas.Data.dll
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\bin\Debug\netcoreapp3.1\AppEmpresas.Data.pdb
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\bin\Debug\netcoreapp3.1\AppEmpresas.Domain.pdb
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\bin\Debug\netcoreapp3.1\AppEmpresas.Core.pdb
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\obj\Debug\netcoreapp3.1\AppEmpresas.Data.csproj.CopyComplete
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\obj\Debug\netcoreapp3.1\AppEmpresas.Data.dll
+C:\dev\empresas-dotnet\src\AppEmpresas.Data\obj\Debug\netcoreapp3.1\AppEmpresas.Data.pdb
